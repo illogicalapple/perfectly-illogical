@@ -1,1 +1,19 @@
-/* placeholder */
+html, body {
+  font-family: Inter, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+p.website-credit {
+  position: fixed;
+  bottom: 2em;
+  right: 2em
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  padding: 2em;
+}
