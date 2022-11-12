@@ -4,7 +4,7 @@ html, body {
   padding: 0;
 }
 
-.website-credit {
+:is(.website-credit) {
   position: fixed;
   bottom: 2em;
   right: 2em
