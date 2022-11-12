@@ -5,7 +5,7 @@ html, body {
 }
 
 .twitter-share-button {
-  position: fixed;
+  position: fixed !important; /* override inline static pos */
   bottom: 2em;
   right: 2em
 }
