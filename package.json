@@ -7,7 +7,7 @@
     "build": "parcel build"
   },
   "dependencies": {
-    "parcel-reporter-static-files-copy": "1.4.0"
+    "postcss-modules": "6.0.0"
   },
   "devDependencies": {
     "parcel": "^2.0.0"
