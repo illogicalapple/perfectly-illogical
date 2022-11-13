@@ -6,11 +6,10 @@
     "start": "parcel",
     "build": "parcel build"
   },
+  "dependencies": {
+    "parcel-reporter-static-files-copy": "1.4.0"
+  },
   "devDependencies": {
     "parcel": "^2.0.0"
-  },
-  "staticFiles": {
-    "distDir": "comics",
-    "staticOutPath": "comics"
   }
 }
