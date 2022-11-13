@@ -1,4 +1,4 @@
-import * as raw from "./comics/11-22/*.jpg"
+import * as raw from "./comics/11-22"
 
 var comics = [];
 
