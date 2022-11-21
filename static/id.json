@@ -1,0 +1,11 @@
+{
+  "comment": "every time you make a comic, upload it with a unique file name and add the file name to the array below",
+  "example (not that array)": [
+    "1.jpg",
+    "alpahbetsoup.jpg",
+    "BAH.jpg"
+  ],
+  "filenames": [
+    
+  ]
+}
